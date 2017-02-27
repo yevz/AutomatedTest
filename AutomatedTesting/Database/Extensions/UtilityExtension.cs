@@ -1,14 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Data.Odbc;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace AutomatedTest.Database.Extensions
+namespace Database.Extensions
 {
     public static class UtilityExtension
     {

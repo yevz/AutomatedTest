@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace AutomatedTest.Database.Extensions
+namespace Database.Extensions
 {
     class FileExtensions
     {

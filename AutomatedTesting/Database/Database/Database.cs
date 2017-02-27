@@ -2,10 +2,9 @@
 using System.Configuration;
 using System.Data;
 using System.Data.Odbc;
-using AutomatedTest.Database.Extensions;
 using Dapper;
 
-namespace AutomatedTest.Database.Database
+namespace Database.Database
 {
     public class Database
     {
