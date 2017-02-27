@@ -1,1 +1,1 @@
-# AutomatedTest.Database
+# Automation framework to compare source DB to target DB after ETL execution.  
